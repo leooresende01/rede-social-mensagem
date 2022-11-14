@@ -10,7 +10,7 @@
 
 ---
 ## Observações:
-- A troca de mensagens é feita usando o protocolo WebSockets
+- A troca de mensagens é feita usando WebSockets
 - O Servidor recebe as mensagens e envia para a API para persistencia e logo após pro destinatario
 ---
 ## Extras:
